@@ -26,7 +26,6 @@ body {
 }
 
 .container {
-
     border: 3px solid white;
     border-radius: 20px;
     padding: 10px;
@@ -40,7 +39,7 @@ body {
     padding: 30px;
 }
 
-.main-heading h1 {
+.main-heading {
     color: var(--neutral);
     /* font-family: 'Esteban', serif; */
     font-family: 'Montserrat', sans-serif;
@@ -71,6 +70,7 @@ li {
     align-items: center;
     justify-content: center;
     font-family: 'Esteban', serif;
+    font-size: 15px;
 }
 
 li:nth-child(1) {
